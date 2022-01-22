@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="78" viewBox="0 0 76 78">
+  <defs>
+    <filter id="Ellipse_3" x="0" y="2" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#19ab7c" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_218" data-name="Group 218" transform="translate(2 0)">
+    <path id="Path_29695" data-name="Path 29695" d="M58,127.8a36,36,0,1,1,36-36A36.055,36.055,0,0,1,58,127.8Zm0-71.279A35.243,35.243,0,1,0,93.134,91.8,35.285,35.285,0,0,0,58,56.521Z" transform="translate(-22 -55.8)" fill="#19ab7c"/>
+    <g transform="matrix(1, 0, 0, 1, -2, 0)" filter="url(#Ellipse_3)">
+      <circle id="Ellipse_3-2" data-name="Ellipse 3" cx="32" cy="32" r="32" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <g id="Green_icon" data-name="Green icon" transform="translate(-50.877 19)">
+      <g id="Group_210" data-name="Group 210" transform="translate(74.877 0)">
+        <g id="Group_209" data-name="Group 209" transform="translate(0 0)">
+          <circle id="Ellipse_7" data-name="Ellipse 7" cx="3.137" cy="3.137" r="3.137" transform="translate(8.244 2.458)" fill="#19ab7c"/>
+          <path id="Path_29702" data-name="Path 29702" d="M84,13.276l2.4,9.775-.7,2.481-6.116-1.083a1.817,1.817,0,0,0-.633,3.578L86.69,29.4A1.817,1.817,0,0,0,88.755,28.1c1.757-6.222,1.626-5.719,1.651-5.945l.748-.184c.076.111-.236-.285,3.4,4.268l-4.565,5.3a1.817,1.817,0,0,0,2.753,2.371l5.548-6.444a1.817,1.817,0,0,0,.043-2.319c-4.421-5.537-4.282-5.406-4.532-5.61l-2.151-8.747,6.173-8.381a1.514,1.514,0,1,0-2.438-1.8l-6.24,8.471c-.089.018-3.806.921-4.025,1.006L77.471,2.307a1.514,1.514,0,0,0-2.16,2.122Z" transform="translate(-74.877 0)" fill="#19ab7c"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

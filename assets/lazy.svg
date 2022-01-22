@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="78" viewBox="0 0 76 78">
+  <defs>
+    <filter id="Ellipse_4" x="0" y="2" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#ffca2a" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_219" data-name="Group 219" transform="translate(2.293 0)">
+    <path id="Path_29697" data-name="Path 29697" d="M177.3,127.8a36,36,0,1,1,36-36A36.055,36.055,0,0,1,177.3,127.8Zm0-71.279a35.206,35.206,0,1,0,35.206,35.206A35.254,35.254,0,0,0,177.3,56.521Z" transform="translate(-141.593 -55.8)" fill="#ffca2a"/>
+    <g transform="matrix(1, 0, 0, 1, -2.29, 0)" filter="url(#Ellipse_4)">
+      <circle id="Ellipse_4-2" data-name="Ellipse 4" cx="32" cy="32" r="32" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <g id="Yellow_icon" data-name="Yellow icon" transform="translate(10.606 16.7)">
+      <g id="Group_211" data-name="Group 211" transform="translate(10.1 2.3)">
+        <path id="Path_29703" data-name="Path 29703" d="M74.338,61.959V59.3H57.6v2.659H70.783V76.206H64.765v1.455H73.61V76.206h-.924V61.959Z" transform="translate(-44.305 -43.346)" fill="#ffca2a"/>
+        <path id="Path_29704" data-name="Path 29704" d="M21.1,67.781H11.947V58.6H10.1V69.152h0v8.313h1.623V71.028h9.265v6.438h1.623V69.32A1.529,1.529,0,0,0,21.1,67.781Z" transform="translate(-10.1 -42.842)" fill="#ffca2a"/>
+        <path id="Path_29705" data-name="Path 29705" d="M89.767,10.613l2.071,5.822H88.256v1.092H92.9V16.435L90.215,8.99l1.679-6.354-1.2-.336L87.5,14.168l1.232.336Z" transform="translate(-65.836 -2.3)" fill="#ffca2a"/>
+        <path id="Path_29706" data-name="Path 29706" d="M38.224,51.558l-4.59-8.425a2.052,2.052,0,0,0-1.819-1.176h-5.57V39.522h.084a2.234,2.234,0,0,1-2.211-2.211V33.728a.392.392,0,0,1,.784,0v3.583a1.422,1.422,0,0,0,1.4,1.4h3.359V37.255h5.934v-.028a1.344,1.344,0,0,0-1.344-1.344H27.728V30.845a1.4,1.4,0,0,0-1.26-1.4,3.658,3.658,0,0,0-.784,0,6.567,6.567,0,0,0-5.934,5.4,35.386,35.386,0,0,0-.112,8.061,3.565,3.565,0,0,0,3.107,3.023,3.214,3.214,0,0,0,.532.028h7.249l4.059,7.333a2.016,2.016,0,0,0,3.639-1.735Z" transform="translate(-16.84 -21.833)" fill="#ffca2a"/>
+      </g>
+      <circle id="Ellipse_8" data-name="Ellipse 8" cx="3.191" cy="3.191" r="3.191" transform="translate(22.36 8.794)" fill="#ffca2a"/>
+    </g>
+  </g>
+</svg>

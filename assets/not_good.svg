@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="76" height="78" viewBox="0 0 76 78">
+  <defs>
+    <filter id="Ellipse_5" x="0" y="2" width="76" height="76" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feFlood flood-color="#f05249" flood-opacity="0.251"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_220" data-name="Group 220" transform="translate(1.516 0)">
+    <path id="Path_29699" data-name="Path 29699" d="M296.5,127.8a36,36,0,1,1,36-36A36.055,36.055,0,0,1,296.5,127.8Zm0-71.279a35.206,35.206,0,1,0,35.206,35.206A35.254,35.254,0,0,0,296.5,56.521Z" transform="translate(-260.016 -55.8)" fill="#f05249"/>
+    <g transform="matrix(1, 0, 0, 1, -1.52, 0)" filter="url(#Ellipse_5)">
+      <circle id="Ellipse_5-2" data-name="Ellipse 5" cx="32" cy="32" r="32" transform="translate(6 4)" fill="#fff"/>
+    </g>
+    <path id="Yellow_icon" data-name="Yellow icon" d="M13.1,13.182a5.591,5.591,0,1,1,5.591-5.591A5.6,5.6,0,0,1,13.1,13.182ZM11.462,29.938a3.359,3.359,0,0,1,3.389-3.227h5.318V25.361a.522.522,0,0,1,1.043,0v2.4H14.851a2.334,2.334,0,0,0-2.341,2.228,2.425,2.425,0,0,0,2.457,2.46H24.25a1.623,1.623,0,0,0,1.623-1.623v-9.31A6.856,6.856,0,0,0,19.1,14.848H14.2a3.383,3.383,0,0,1-.017,2.971l-6.553,13.8a3.419,3.419,0,0,1-.587.838h5.41A3.2,3.2,0,0,1,11.462,29.938Zm-7.91,2.27a2.311,2.311,0,0,0,1.037.244,2.344,2.344,0,0,0,2.1-1.3l6.55-13.791a2.333,2.333,0,0,0-.957-3.086,2.222,2.222,0,0,0-1.084-.279,2.5,2.5,0,0,0-2.211,1.39l-2.309,4.65a.532.532,0,1,1-.927-.495l2.294-4.622.007-.012a6.642,6.642,0,0,0-5.809,6.61s0,5.988,0,8.312A2.6,2.6,0,0,0,3.552,32.209Z" transform="translate(22.237 19)" fill="#f05249"/>
+  </g>
+</svg>
